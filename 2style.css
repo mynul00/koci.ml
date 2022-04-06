@@ -10,12 +10,12 @@ body
 .min
 {
    
-      max-width: 100%;
+      max-width: 80%;
     background-color: rgb(255, 255, 255);
 }
 table
 {
     border-spacing: 0px;
-       max-width: 100%;
+       max-width: 80%;
     padding: 8px;
 }
