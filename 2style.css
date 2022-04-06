@@ -10,7 +10,7 @@ body
 .min
 {
    
-   
+       max-block-size: fit-content;
     background-color: rgb(255, 255, 255);
 }
 table
