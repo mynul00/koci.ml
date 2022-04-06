@@ -11,11 +11,11 @@ body
 {
    
       max-width: 80%;
-    background-color: rgb(255, 255, 255);
+   
 }
 table
 {
-    border-spacing: 0px;
-      
+   
     padding: 11px;
+    color: white;
 }
