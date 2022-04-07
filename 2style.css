@@ -1,0 +1,32 @@
+body
+{
+    background-color: #00000075;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.min
+{
+   
+      max-width: 80%;
+   
+}
+table
+{
+   border-spacing: 0px;
+    padding: 31px;
+    color: black;
+    background-color: white;
+}
+td{
+    padding: 6px;
+}
+th{
+    padding-bottom: 5px;
+}
+.trall
+{
+    background-color: rgba(250, 214, 170, 0.425);
+}
